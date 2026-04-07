@@ -1,7 +1,7 @@
 # Small Projects Collection
 
-[![GitHub](https://img.shields.io/badge/GitHub-naivedhP2518-black?style=flat&logo=github)](https://github.com/naivedhP2518)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Naivedh_Patel-blue?style=flat)](https://naivedhp2518.github.io/Demo-Potfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-naivedhP2518-black?style=for-the-badge&logo=github)](https://github.com/naivedhP2518/Small-Projects)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Naivedh_Patel-blue?style=for-the-badge)](https://naivedhp2518.github.io/Demo-Potfolio/)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Projects-brightgreen?style=for-the-badge&logo=google-chrome)](https://naivedhp2518.github.io/Small-Projects/index.html)
 
 A curated, professional showcase of web development projects, ranging from e-commerce solutions to productivity utilities. This portal serves as a unified entry point for exploring the digital craft of **Naivedh Patel**.
@@ -52,11 +52,11 @@ A curated, professional showcase of web development projects, ranging from e-com
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/naivedhP2518/Small-Projects-.git
+   git clone https://github.com/naivedhP2518/Small-Projects.git
    ```
 2. Open `index.html` in your browser.
 3. Explore the "Case Studies" section to view live projects.
 
 ---
 
-Built with ❤️ by [Naivedh Patel](https://github.com/naivedhP2518)
+<p align="center">Built with ❤️ by Naivedh Patel</p>
