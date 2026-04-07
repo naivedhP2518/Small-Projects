@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-naivedhP2518-black?style=flat&logo=github)](https://github.com/naivedhP2518)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Naivedh_Patel-blue?style=flat)](https://naivedhp2518.github.io/Demo-Potfolio/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Projects-brightgreen?style=for-the-badge&logo=google-chrome)](https://naivedhp2518.github.io/Small-Projects/index.html)
 
 A curated, professional showcase of web development projects, ranging from e-commerce solutions to productivity utilities. This portal serves as a unified entry point for exploring the digital craft of **Naivedh Patel**.
 
