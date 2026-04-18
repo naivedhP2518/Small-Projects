@@ -22,6 +22,12 @@ document.addEventListener('DOMContentLoaded', () => {
         opacity: 0,
         duration: 1,
         ease: 'power3.out'
+    }, '-=0.8')
+    .from('.scroll-indicator', {
+        y: 20,
+        opacity: 0,
+        duration: 1,
+        ease: 'power3.out'
     }, '-=0.8');
 
     // 2. Project Cards Reveal Animation (Individual triggers for reliability)
